@@ -1,5 +1,3 @@
-<img align="right" width="170" src="assets/tarelion-waymark.png" alt="Tarelion waymark">
-
 ## Talha
 
 backend developer building APIs, services, and database-backed systems.
